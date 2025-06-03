@@ -637,7 +637,7 @@ const BootstrapModal = () => {
     if (validate1()) {
       handleSubmit(); 
 
-      // window.location.href = "https://www.prehome.in/thank-you";
+      window.location.href = "https://www.prehome.in/thank-you";
 console.log("submit")
       // Close the modal after 5 seconds
       setTimeout(() => {
